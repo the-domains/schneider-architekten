@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Schneider Architekten]]></title>
+        <description><![CDATA[Schneider Architekten]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 18:11:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Schneider Architekten]]></title>
+            <description><![CDATA[<article><h1>Schneider Architekten</h1><p>Wir sind ein Architekturbüro mit Niederlassungen in Karlsruhe und Bad Breisig. Auf den folgenden Seiten können Sie sich einen Überblick über unsere Arbeit verschaffen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e333f5087a57cfdb9055ab8181b86d660abcf78f.jpg"></article>]]></description>
+            <link>undefinedwillkommen/index.html</link>
+            <guid isPermaLink="false">d4c1b306-21cc-4429-bcbb-b04866d335fa</guid>
+            <pubDate>Tue, 12 Jan 2016 18:10:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
