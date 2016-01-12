@@ -1,0 +1,28 @@
+name: Schneider Architekten
+favicon: null
+layout_spectrum: 0.7856830030214041
+typography_spectrum: 0.6720114049967378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6215266804210842
+  lightness: 0.24053223244845867
+  saturation: 0.27368699107319117
+  rhythmicContrast: 0.05168703431263566
+purpose: []
