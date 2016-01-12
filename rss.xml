@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Schneider Architekten]]></title>
         <description><![CDATA[Schneider Architekten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/schneider-architekten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 18:11:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 23:54:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/schneider-architekten/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Schneider Architekten]]></title>
-            <description><![CDATA[<article><h1>Schneider Architekten</h1><p>Wir sind ein Architekturbüro mit Niederlassungen in Karlsruhe und Bad Breisig. Auf den folgenden Seiten können Sie sich einen Überblick über unsere Arbeit verschaffen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e333f5087a57cfdb9055ab8181b86d660abcf78f.jpg"></article>]]></description>
-            <link>undefinedwillkommen/index.html</link>
+            <title><![CDATA[Willkommen]]></title>
+            <description><![CDATA[<article><h1>Willkommen</h1><p>Wir sind ein Architekturbüro mit Niederlassungen in Karlsruhe und Bad Breisig. Auf den folgenden Seiten können Sie sich einen Überblick über unsere Arbeit verschaffen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e333f5087a57cfdb9055ab8181b86d660abcf78f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/schneider-architekten/willkommen/index.html</link>
             <guid isPermaLink="false">d4c1b306-21cc-4429-bcbb-b04866d335fa</guid>
-            <pubDate>Tue, 12 Jan 2016 18:10:53 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 23:54:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
