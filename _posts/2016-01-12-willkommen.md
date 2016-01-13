@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T23:54:09.807Z'
-dateModified: '2016-01-12T23:54:00.563Z'
+datePublished: '2016-01-13T00:00:46.226Z'
+dateModified: '2016-01-13T00:00:40.357Z'
 title: Willkommen
 author: []
+sourcePath: _posts/2016-01-12-willkommen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-willkommen.md
-published: true
-url: willkommen/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Es freut uns, dass Sie uns im Internet besuchen.
