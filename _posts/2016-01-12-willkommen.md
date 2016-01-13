@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T06:47:45.014Z'
-dateModified: '2016-01-13T06:46:59.644Z'
+datePublished: '2016-01-13T07:47:06.184Z'
+dateModified: '2016-01-13T07:46:59.424Z'
 title: Willkommen
 author: []
 sourcePath: _posts/2016-01-12-willkommen.md
