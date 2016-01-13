@@ -1,6 +1,6 @@
 name: Schneider Architekten
 favicon: null
-layout_spectrum: 0.93432
+layout_spectrum: 0.5154
 typography_spectrum: 0.6334
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#e8cab2'
     - '#0a0000'
     - '#874f28'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.4375
+  brandStrength: 0.1875
+  lightness: 0.5625
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
