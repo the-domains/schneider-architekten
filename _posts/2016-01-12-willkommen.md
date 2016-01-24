@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T17:30:28.353Z'
-dateModified: '2016-01-24T17:29:03.349Z'
+datePublished: '2016-01-24T17:32:38.663Z'
+dateModified: '2016-01-24T17:32:32.674Z'
 title: Willkommen
 author: []
 sourcePath: _posts/2016-01-12-willkommen.md
