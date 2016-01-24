@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Schneider Architekten]]></title>
+        <description><![CDATA[Schneider Architekten]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 17:25:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projekte]]></title>
+            <description><![CDATA[<article><h1>Projekte</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f7746b211637552c3a830ef28e996bd6fc38de3.jpg"></article>]]></description>
+            <link>undefinedprojekte/index.html</link>
+            <guid isPermaLink="false">8f91d1b3-a762-4222-a709-ebef8052a7d1</guid>
+            <pubDate>Sun, 24 Jan 2016 17:25:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
